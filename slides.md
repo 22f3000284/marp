@@ -25,14 +25,12 @@ Maintained in version control & exportable with Marp.
 
 ---
 
-<!-- _backgroundImage: url('https://picsum.photos/1600/900') -->
+<!-- _backgroundImage: url('https://marp.app/assets/hero-background.jpg') -->
 <!-- _backgroundSize: cover -->
-<!-- _class: lead -->
 
 # 🌄 Background Image Example
 
-This slide uses a **full background image**.  
-Background provided via Marp directives.
+This slide has a **background image** applied via Marp directives.
 
 ---
 
