@@ -25,12 +25,14 @@ Maintained in version control & exportable with Marp.
 
 ---
 
-<!-- _class: bg-cover -->
 <!-- _backgroundImage: url('https://picsum.photos/1600/900') -->
+<!-- _backgroundSize: cover -->
+<!-- _class: lead -->
 
 # 🌄 Background Image Example
 
-This slide has a **full background image**.
+This slide uses a **full background image**.  
+Background provided via Marp directives.
 
 ---
 
