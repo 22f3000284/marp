@@ -26,14 +26,14 @@ Maintained in version control & exportable with Marp.
 ---
 
 <!--
-_backgroundImage: url('https://picsum.photos/1600/900')
-_backgroundSize: cover
+backgroundImage: url('https://picsum.photos/1600/900')
+backgroundSize: cover
 -->
 
-# 🌄 Background Image Slide
+# 🌄 Background Image Example
 
-This slide **uses a background image** provided with Marp directives.  
-If the validator is strict, this will count as the required background image.
+This slide has a **background image**.  
+It is applied using Marp’s `backgroundImage` directive.  
 
 ---
 
