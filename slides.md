@@ -25,15 +25,11 @@ Maintained in version control & exportable with Marp.
 
 ---
 
-<!--
-backgroundImage: url('https://picsum.photos/1600/900')
-backgroundSize: cover
--->
+![bg](https://picsum.photos/1600/900)
 
 # 🌄 Background Image Example
 
-This slide has a **background image**.  
-It is applied using Marp’s `backgroundImage` directive.  
+This slide has a **background image** applied with the `![bg](URL)` syntax.
 
 ---
 
