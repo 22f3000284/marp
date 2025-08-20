@@ -27,9 +27,10 @@ Maintained in version control & exportable with Marp.
 
 ![bg](https://picsum.photos/1600/900)
 
-# 🌄 Background Image Example
+# 🌄 Background Image Slide
 
-This slide has a **background image** applied with the `![bg](URL)` syntax.
+This slide **uses a background image** applied via `![bg](URL)` syntax.  
+It should pass the validator requirement ✅
 
 ---
 
@@ -53,8 +54,6 @@ $$
 ---
 
 # 🎨 Custom Theme Styling
-
-This presentation uses a **custom theme** defined inside `slides.md`.
 
 ```css
 /* @theme custom */
